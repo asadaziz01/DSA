@@ -1,7 +1,7 @@
 // Print all the subsequences that are found in the array
 // A subsequence is different from a subarray, it is non contigous
 // Example: a = {3, 1, 2}
-// Subarray : {}, {3}, {1}, {3}, {3,1}, {3,2}, {1,2}, {3,1,2} -> non contiguous
+// Subsequence : {}, {3}, {1}, {3}, {3,1}, {3,2}, {1,2}, {3,1,2} -> non contiguous
 // Subarray: {}, {3}, {1}, {2}, {3,1}, {1,2}, {3,1,2}   (There's no {3,2} as it is breaking the sequence) -> continguous
 //Refer the PNG image for further clarification
 
